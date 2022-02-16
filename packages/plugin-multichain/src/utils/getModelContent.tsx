@@ -1,7 +1,8 @@
+// TODO extra these code as a hook to web3-connector
 export default () => `
 import { useState, useEffect } from 'react';
 import { Models } from '../../plugin-model/useModel';
-import { chainLocalKey, setupNetwork, Chain as DataType, chains } from '@big3lib/dapp-connector'
+import { chainLocalKey, setupNetwork, Chain as DataType, chains } from 'web3-connector'
 export type Chain = Models<'@@chain'>;
 const defaultChain = { name: 'BSC', config: chains.BSC }
 export default () => {
@@ -28,4 +29,4 @@ export default () => {
 
   return { chain, setChain }
 }
-`;
+`

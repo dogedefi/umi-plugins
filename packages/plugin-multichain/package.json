@@ -1,5 +1,5 @@
 {
-  "name": "@big3lib/plugin-multichain",
+  "name": "@doge/plugin-multichain",
   "main": "lib/index.js",
   "description": "",
   "version": "1.0.0",
@@ -23,7 +23,7 @@
     ]
   },
   "peerDependencies": {
-    "@big3lib/dapp-connector": "1.x",
+    "web3-connector": "1.x",
     "umi": "3.x"
   },
   "devDependencies": {

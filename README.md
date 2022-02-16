@@ -1,6 +1,6 @@
-# big3lib (alpha)
+# doge (alpha)
 
-## [Example](https://github.com/bigs-3/big3lib/tree/main/example)
+## [Example](https://github.com/bigs-3/doge/tree/main/example)
 
 This is a hosted version of [example](./example).
 
@@ -8,11 +8,7 @@ This is a hosted version of [example](./example).
 
 | Package                                             | Version                                                                                                                   | Size                                                                                                                                         | Link |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [`@biglib/dapp-connector`](packages/dapp-connector) | [![npm](https://img.shields.io/npm/v/@web3-react/types/beta.svg)](https://www.npmjs.com/package/@web3-react/types/v/beta) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/types/beta.svg)](https://bundlephobia.com/result?p=@web3-react/types@beta) |      |
-| **Umijs Plugin**                                    |
-| [`@biglib/plugin-multichain`](packages/plugin-multichain)     | [![npm](https://img.shields.io/npm/v/@web3-react/store/beta.svg)](https://www.npmjs.com/package/@web3-react/store/v/beta) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/store/beta.svg)](https://bundlephobia.com/result?p=@web3-react/store@beta) |      |
-| **CI**                                              |                                                                                                                           |                                                                                                                                              |      |
-| [`@biglib/frontend-deploy`](packages/frontend-deploy)         | [![npm](https://img.shields.io/npm/v/@web3-react/frame/beta.svg)](https://www.npmjs.com/package/@web3-react/frame/v/beta) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/frame/beta.svg)](https://bundlephobia.com/result?p=@web3-react/frame@beta) |      |
+| [`@doge/web3-connector`](packages/web3-connector) | [![npm](https://img.shields.io/npm/v/@web3-react/types/beta.svg)](https://www.npmjs.com/package/@web3-react/types/v/beta) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/types/beta.svg)](https://bundlephobia.com/result?p=@web3-react/types@beta) |      |
 
 ## Getting Started
 
@@ -28,7 +24,7 @@ In addition to compiling each package in watch mode, this will also spin up [exa
 
 ## Documentation
 
-This version of big3lib is still in alpha, so unfortunately documentation is pretty sparse at the moment. The [example](./example), TSDoc comments, and the source itself are the best ways to get an idea of what's going on. More thorough documentation is a priority as development continues!
+This version of doge is still in alpha, so unfortunately documentation is pretty sparse at the moment. The [example](./example), TSDoc comments, and the source itself are the best ways to get an idea of what's going on. More thorough documentation is a priority as development continues!
 
 ## Useful Commands
 
