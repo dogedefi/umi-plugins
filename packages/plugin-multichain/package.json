@@ -2,7 +2,7 @@
   "name": "@doge/plugin-multichain",
   "main": "lib/index.js",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "/plugin-multichain",
   "scripts": {
     "start": "cross-env APP_ROOT=example umi dev",
