@@ -1,5 +1,5 @@
 {
-  "name": "@doge/plugin-multichain",
+  "name": "@dogedefi/plugin-multichain",
   "main": "lib/index.js",
   "description": "",
   "version": "1.0.1",
@@ -58,5 +58,5 @@
   "files": [
     "lib"
   ],
-  "gitHead": "6b13ec4f89ba80081958097801805a91f2cb42c5"
+  "gitHead": "cd0e768acff90746c190e631d3ceb92c4151eeb0"
 }
