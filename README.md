@@ -1,14 +1,14 @@
-# doge (alpha)
+# Umijs Plugin
 
-## [Example](https://github.com/bigs-3/doge/tree/main/example)
+## [Example](https://github.com/dogedefi/web3-connector/tree/main/example)
 
-This is a hosted version of [example](./example).
+This is a hosted version of [example](https://github.com/dogedefi/web3-connector/tree/main/example).
 
-## Packages
+<!-- ## Packages
 
 | Package                                             | Version                                                                                                                   | Size                                                                                                                                         | Link |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| [`@doge/web3-connector`](packages/web3-connector) | [![npm](https://img.shields.io/npm/v/@web3-react/types/beta.svg)](https://www.npmjs.com/package/@web3-react/types/v/beta) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/types/beta.svg)](https://bundlephobia.com/result?p=@web3-react/types@beta) |      |
+| [`@doge/web3-connector`](packages/web3-connector) | [![npm](https://img.shields.io/npm/v/@web3-react/types/beta.svg)](https://www.npmjs.com/package/@web3-react/types/v/beta) | [![minzip](https://img.shields.io/bundlephobia/minzip/@web3-react/types/beta.svg)](https://bundlephobia.com/result?p=@web3-react/types@beta) |      | -->
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ This is a hosted version of [example](./example).
 - `yarn bootstrap`
 - `yarn start`
 
-In addition to compiling each package in watch mode, this will also spin up [example](./example) on [localhost:8000](http://localhost:8000/).
+In addition to compiling each package in watch mode, this will also spin up [example](https://github.com/dogedefi/web3-connector/tree/main/example) on [localhost:8000](http://localhost:8000/).
 
 ## Running Tests
 
@@ -24,7 +24,7 @@ In addition to compiling each package in watch mode, this will also spin up [exa
 
 ## Documentation
 
-This version of doge is still in alpha, so unfortunately documentation is pretty sparse at the moment. The [example](./example), TSDoc comments, and the source itself are the best ways to get an idea of what's going on. More thorough documentation is a priority as development continues!
+This version of doge is still in alpha, so unfortunately documentation is pretty sparse at the moment. The [example](https://github.com/dogedefi/web3-connector/tree/main/example), TSDoc comments, and the source itself are the best ways to get an idea of what's going on. More thorough documentation is a priority as development continues!
 
 ## Useful Commands
 
