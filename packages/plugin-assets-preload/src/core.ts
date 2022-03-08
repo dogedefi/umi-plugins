@@ -5,8 +5,8 @@ import findFile from './utils'
 const hashFileRegex = /([^\s"]*)(\.[\d\w]*)(\.png|jpe?g)/
 const fileRegex = /([^\s"]*)(\.png|jpe?g)/
 const assetsJosnPath = findFile(process.cwd(), 'preload.json')
-const location = assetsJosnPath.substring(0, assetsJosnPath.indexOf('preload.json') - 1)
-const hashAssetsJosnPath = path.join(location, 'preload.hash.json')
+export const location = assetsJosnPath.substring(0, assetsJosnPath.indexOf('preload.json') - 1)
+export const hashAssetsJosnPath = path.join(location, 'preload.hash.json')
 
 function transfer(source: string[], compiled: string[]) {
   return source.map((file: string) => {

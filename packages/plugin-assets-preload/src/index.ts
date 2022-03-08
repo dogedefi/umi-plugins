@@ -1,1 +1,1 @@
-export { default as PreloadPlugin } from './preloadPlugin'
+export { default as PreloadPlugin } from './core'
